@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Расчет спирали</string>
+    <string name="s1">Значения:</string>
+    <string name="s2">L 1:</string>
+    <string name="s3">L 2:</string>
+    <string name="s4">Угол:</string>
+    <string name="s5">Диаметр:</string>
+    <string name="s6">Угол C:</string>
+    <string name="s7">X конечный:</string>
+    <string name="s8">0.0</string>
+    <string name="s9">Вычислить</string>
+    <string name="s10">Сброс</string>
+    <string name="s11">X нач:</string>
+    <string name="s12">A prog:</string>
+    <string name="todo">TODO</string>
+
+</resources>

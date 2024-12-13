@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestSandvik</string>
+    <string name="xpl">X: -</string>
+    <string name="xmin">X: +</string>
+    <string name="q10_start">Q10 Start: -</string>
+    <string name="x_max">X max:</string>
+    <string name="measur">Расчитать</string>
+    <string name="q10">Q10:</string>
+    <string name="q10min">Q10 -:</string>
+    <string name="textview">X(TopM):</string>
+    <string name="textview2">X(TopM)-X(But):</string>
+    <string name="textview3">0.0</string>
+    <string name="top">TOP</string>
+    <string name="empty">0</string>
+    <string name="left_side">Left Side</string>
+    <string name="right_side">Right Side</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bascetball</string>
+    <string name="reset">Сброс</string>
+    <string name="add3TeamA">+3</string>
+    <string name="add2TeamA">+2</string>
+    <string name="add1TeamA">+1</string>
+    <string name="add3TeamB">+3</string>
+    <string name="add2TeamB">+2</string>
+    <string name="add1TeamB">+1</string>
+    <string name="TeamA">TeamA</string>
+    <string name="TeamB">TeamB</string>
+    <string name="zero">0</string>
+</resources>

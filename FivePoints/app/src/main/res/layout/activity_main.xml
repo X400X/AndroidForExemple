@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="MissingClass">
+
+    <LinearLayout
+        android:id="@+id/l123"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginTop="180dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/l11"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l12"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l13"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l14"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l15"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/l21"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l22"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l23"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l24"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l25"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/l31"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l32"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l33"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l34"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l35"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/l41"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l42"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l43"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l44"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l45"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/l51"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l52"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l53"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l54"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/l55"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:onClick="Click"
+                android:background="@color/white"
+                android:orientation="horizontal" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
